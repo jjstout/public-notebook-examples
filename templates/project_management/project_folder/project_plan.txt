@@ -1,0 +1,41 @@
+Project Plan
+<Project Name>
+<DATE>
+===============================================================================
+
+Objectives:
+
+    * ?
+
+Open Questions:
+
+    * ?
+
+Assert:
+
+    * ?
+
+Constraints:
+
+    * ?
+
+Project Milestones:
+
+    1 - Init Project
+
+        * Create Project Resources
+            * Trello project board
+            * Project folder (Dropbox)
+        * Create project plan
+        * Design initial test jig
+
+    2 - ?
+
+        * ?
+
+    N - Close Project
+
+        * Record lessons learned
+        * Close Trello Board
+        * Final tags of Github repo (if required)
+        * Archive project folder
