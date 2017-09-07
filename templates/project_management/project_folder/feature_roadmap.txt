@@ -1,0 +1,20 @@
+<Project Title>
+
+<Short Description>
+
+Version x.y.z:
+    * Feature 1
+    * Feature 2
+    * Feature 3
+
+    Released: <DATE>
+
+Version x.y.z:
+    * Feature 4
+    * Feature 5
+    * Feature 6
+
+    Released: <DATE>
+
+Completed
+===============================================================================
